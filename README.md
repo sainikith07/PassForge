@@ -4,7 +4,7 @@
   <b>Generate strong, customizable passwords with a sleek, user-friendly interface</b> 
 </p>      
                
----                           
+---                            
                
 ## 🌟 Overview   
 PassForge is a lightweight yet powerful password generator that creates highly secure, customizable passwords with just a click. With a clean, intuitive interface and one-click clipboard copying, PassForge makes creating and using strong passwords effortless.
