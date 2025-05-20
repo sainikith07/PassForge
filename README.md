@@ -3,7 +3,7 @@
 <p align="center">  
   <b>Generate strong, customizable passwords with a sleek, user-friendly interface</b> 
 </p>      
-                  
+                   
 ---                                  
                 
 ## 🌟 Overview    
